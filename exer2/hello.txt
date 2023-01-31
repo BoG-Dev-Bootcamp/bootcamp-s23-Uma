@@ -1,0 +1,1 @@
+I created this file using >>touch hello.txt, and then wrote text in it using >>nano hello.txt
